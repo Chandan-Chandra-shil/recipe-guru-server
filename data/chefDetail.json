@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "chef_picture_url": "https://example.com/chef1-picture.jpg",
+    "chef_name": "Riya Singh",
+    "years_of_experience": 10,
+    "number_of_recipes": 75,
+    "likes": 20000
+  },
+  {
+    "id": 2,
+    "chef_picture_url": "https://example.com/chef2-picture.jpg",
+    "chef_name": "Arjun Sharma",
+    "years_of_experience": 12,
+    "number_of_recipes": 90,
+    "likes": 15000
+  },
+  {
+    "id": 3,
+    "chef_picture_url": "https://example.com/chef3-picture.jpg",
+    "chef_name": "Neha Patel",
+    "years_of_experience": 8,
+    "number_of_recipes": 60,
+    "likes": 30000
+  },
+  {
+    "id": 4,
+    "chef_picture_url": "https://example.com/chef4-picture.jpg",
+    "chef_name": "Vikram Singh",
+    "years_of_experience": 15,
+    "number_of_recipes": 120,
+    "likes": 25000
+  },
+  {
+    "id": 5,
+    "chef_picture_url": "https://example.com/chef5-picture.jpg",
+    "chef_name": "Priya Khanna",
+    "years_of_experience": 6,
+    "number_of_recipes": 50,
+    "likes": 10000
+  },
+  {
+    "id": 6,
+    "chef_picture_url": "https://example.com/chef6-picture.jpg",
+    "chef_name": "Aryan Sharma",
+    "years_of_experience": 9,
+    "number_of_recipes": 70,
+    "likes": 5000
+  },
+  {
+    "id": 7,
+    "chef_picture_url": "https://example.com/chef7-picture.jpg",
+    "chef_name": "Shreya Gupta",
+    "years_of_experience": 5,
+    "number_of_recipes": 40,
+    "likes": 8000
+  },
+  {
+    "id": 8,
+    "chef_picture_url": "https://example.com/chef8-picture.jpg",
+    "chef_name": "Aman Verma",
+    "years_of_experience": 7,
+    "number_of_recipes": 55,
+    "likes": 12000
+  },
+  {
+    "id": 9,
+    "chef_picture_url": "https://example.com/chef9-picture.jpg",
+    "chef_name": "Simran Kaur",
+    "years_of_experience": 11,
+    "number_of_recipes": 85,
+    "likes": 18000
+  },
+  {
+    "id": 10,
+    "chef_picture_url": "https://example.com/chef10-picture.jpg",
+    "chef_name": "Rahul Patel",
+    "years_of_experience": 13,
+    "number_of_recipes": 95,
+    "likes": 23000
+  }
+]
