@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "chef_picture_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=1380&t=st=1683121017~exp=1683121617~hmac=fa6c8e2e994b5c909ae18289a678ac0c9b11bf15f00e256977957f96c589af00",
+    "chef_name": "Riya Singh",
+    "years_of_experience": 10,
+    "number_of_recipes": 75,
+    "likes": 20000,
+    "recipes": [
+      {
+        "recipeName": "Pasta Carbonara",
+        "ingredients": [
+          "Spaghetti",
+          "Pancetta",
+          "Eggs",
+          "Parmesan cheese",
+          "Black pepper"
+        ],
+        "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Cook pancetta in a pan until crispy. 3. Beat eggs and parmesan cheese in a bowl. 4. Drain spaghetti and add to the pan with pancetta. 5. Remove from heat and add egg mixture. 6. Stir until the sauce thickens. 7. Season with black pepper to taste.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Beef Bourguignon",
+        "ingredients": [
+          "Beef chuck roast",
+          "Bacon",
+          "Onion",
+          "Carrots",
+          "Red wine"
+        ],
+        "cookingMethod": "1. Preheat oven to 325°F. 2. Cook bacon in a large Dutch oven until crispy. 3. Remove bacon and brown beef in bacon fat. 4. Add onion and carrots and cook until tender. 5. Add red wine and bring to a boil. 6. Cover Dutch oven and place in oven. 7. Cook for 2-3 hours until beef is tender. 8. Serve with crusty bread.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chef_picture_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=1380&t=st=1683121017~exp=1683121617~hmac=fa6c8e2e994b5c909ae18289a678ac0c9b11bf15f00e256977957f96c589af00",
+    "chef_name": "Arjun Sharma",
+    "years_of_experience": 10,
+    "number_of_recipes": 75,
+    "likes": 20000,
+    "recipes": [
+      {
+        "recipeName": "Pasta Carbonara",
+        "ingredients": [
+          "Spaghetti",
+          "Pancetta",
+          "Eggs",
+          "Parmesan cheese",
+          "Black pepper"
+        ],
+        "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Cook pancetta in a pan until crispy. 3. Beat eggs and parmesan cheese in a bowl. 4. Drain spaghetti and add to the pan with pancetta. 5. Remove from heat and add egg mixture. 6. Stir until the sauce thickens. 7. Season with black pepper to taste.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Beef Bourguignon",
+        "ingredients": [
+          "Beef chuck roast",
+          "Bacon",
+          "Onion",
+          "Carrots",
+          "Red wine"
+        ],
+        "cookingMethod": "1. Preheat oven to 325°F. 2. Cook bacon in a large Dutch oven until crispy. 3. Remove bacon and brown beef in bacon fat. 4. Add onion and carrots and cook until tender. 5. Add red wine and bring to a boil. 6. Cover Dutch oven and place in oven. 7. Cook for 2-3 hours until beef is tender. 8. Serve with crusty bread.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chef_picture_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=1380&t=st=1683121017~exp=1683121617~hmac=fa6c8e2e994b5c909ae18289a678ac0c9b11bf15f00e256977957f96c589af00",
+    "chef_name": "Neha Patel",
+    "years_of_experience": 10,
+    "number_of_recipes": 75,
+    "likes": 20000,
+    "recipes": [
+      {
+        "recipeName": "Pasta Carbonara",
+        "ingredients": [
+          "Spaghetti",
+          "Pancetta",
+          "Eggs",
+          "Parmesan cheese",
+          "Black pepper"
+        ],
+        "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Cook pancetta in a pan until crispy. 3. Beat eggs and parmesan cheese in a bowl. 4. Drain spaghetti and add to the pan with pancetta. 5. Remove from heat and add egg mixture. 6. Stir until the sauce thickens. 7. Season with black pepper to taste.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Beef Bourguignon",
+        "ingredients": [
+          "Beef chuck roast",
+          "Bacon",
+          "Onion",
+          "Carrots",
+          "Red wine"
+        ],
+        "cookingMethod": "1. Preheat oven to 325°F. 2. Cook bacon in a large Dutch oven until crispy. 3. Remove bacon and brown beef in bacon fat. 4. Add onion and carrots and cook until tender. 5. Add red wine and bring to a boil. 6. Cover Dutch oven and place in oven. 7. Cook for 2-3 hours until beef is tender. 8. Serve with crusty bread.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chef_picture_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=1380&t=st=1683121017~exp=1683121617~hmac=fa6c8e2e994b5c909ae18289a678ac0c9b11bf15f00e256977957f96c589af00",
+    "chef_name": "Vikram Singh",
+    "years_of_experience": 10,
+    "number_of_recipes": 75,
+    "likes": 20000,
+    "recipes": [
+      {
+        "recipeName": "Pasta Carbonara",
+        "ingredients": [
+          "Spaghetti",
+          "Pancetta",
+          "Eggs",
+          "Parmesan cheese",
+          "Black pepper"
+        ],
+        "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Cook pancetta in a pan until crispy. 3. Beat eggs and parmesan cheese in a bowl. 4. Drain spaghetti and add to the pan with pancetta. 5. Remove from heat and add egg mixture. 6. Stir until the sauce thickens. 7. Season with black pepper to taste.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Beef Bourguignon",
+        "ingredients": [
+          "Beef chuck roast",
+          "Bacon",
+          "Onion",
+          "Carrots",
+          "Red wine"
+        ],
+        "cookingMethod": "1. Preheat oven to 325°F. 2. Cook bacon in a large Dutch oven until crispy. 3. Remove bacon and brown beef in bacon fat. 4. Add onion and carrots and cook until tender. 5. Add red wine and bring to a boil. 6. Cover Dutch oven and place in oven. 7. Cook for 2-3 hours until beef is tender. 8. Serve with crusty bread.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chef_picture_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=1380&t=st=1683121017~exp=1683121617~hmac=fa6c8e2e994b5c909ae18289a678ac0c9b11bf15f00e256977957f96c589af00",
+    "chef_name": "Priya Khanna",
+    "years_of_experience": 10,
+    "number_of_recipes": 75,
+    "likes": 20000,
+    "recipes": [
+      {
+        "recipeName": "Pasta Carbonara",
+        "ingredients": [
+          "Spaghetti",
+          "Pancetta",
+          "Eggs",
+          "Parmesan cheese",
+          "Black pepper"
+        ],
+        "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Cook pancetta in a pan until crispy. 3. Beat eggs and parmesan cheese in a bowl. 4. Drain spaghetti and add to the pan with pancetta. 5. Remove from heat and add egg mixture. 6. Stir until the sauce thickens. 7. Season with black pepper to taste.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Beef Bourguignon",
+        "ingredients": [
+          "Beef chuck roast",
+          "Bacon",
+          "Onion",
+          "Carrots",
+          "Red wine"
+        ],
+        "cookingMethod": "1. Preheat oven to 325°F. 2. Cook bacon in a large Dutch oven until crispy. 3. Remove bacon and brown beef in bacon fat. 4. Add onion and carrots and cook until tender. 5. Add red wine and bring to a boil. 6. Cover Dutch oven and place in oven. 7. Cook for 2-3 hours until beef is tender. 8. Serve with crusty bread.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chef_picture_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=1380&t=st=1683121017~exp=1683121617~hmac=fa6c8e2e994b5c909ae18289a678ac0c9b11bf15f00e256977957f96c589af00",
+    "chef_name": "Riya Singh",
+    "years_of_experience": 10,
+    "number_of_recipes": 75,
+    "likes": 20000,
+    "recipes": [
+      {
+        "recipeName": "Pasta Carbonara",
+        "ingredients": [
+          "Spaghetti",
+          "Pancetta",
+          "Eggs",
+          "Parmesan cheese",
+          "Black pepper"
+        ],
+        "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Cook pancetta in a pan until crispy. 3. Beat eggs and parmesan cheese in a bowl. 4. Drain spaghetti and add to the pan with pancetta. 5. Remove from heat and add egg mixture. 6. Stir until the sauce thickens. 7. Season with black pepper to taste.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Beef Bourguignon",
+        "ingredients": [
+          "Beef chuck roast",
+          "Bacon",
+          "Onion",
+          "Carrots",
+          "Red wine"
+        ],
+        "cookingMethod": "1. Preheat oven to 325°F. 2. Cook bacon in a large Dutch oven until crispy. 3. Remove bacon and brown beef in bacon fat. 4. Add onion and carrots and cook until tender. 5. Add red wine and bring to a boil. 6. Cover Dutch oven and place in oven. 7. Cook for 2-3 hours until beef is tender. 8. Serve with crusty bread.",
+        "rating": 4.8
+      }
+    ]
+  }
+]
