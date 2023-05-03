@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "chef_picture_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=1380&t=st=1683121017~exp=1683121617~hmac=fa6c8e2e994b5c909ae18289a678ac0c9b11bf15f00e256977957f96c589af00",
-    "chef_name": "Riya Singh",
+    "chef_picture_url": "https://img.freepik.com/free-photo/satisfied-professional-male-chef-cook-white-uniform-cook-hat-standing-with-arms-crossed-looking-confident-green-background_141793-21131.jpg?w=1380&t=st=1683125314~exp=1683125914~hmac=1fd5ebcc4c209b8f4c3157c4932fdbe81b802fdc7c4b931d78d1736cfaf20f11",
+    "chef_name": "Chandan Singh",
     "years_of_experience": 10,
-    "number_of_recipes": 75,
-    "likes": 20000,
+    "number_of_recipes": 7,
+    "likes": 200,
     "recipes": [
       {
         "recipeName": "Pasta Carbonara",
@@ -17,7 +17,7 @@
           "Black pepper"
         ],
         "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Cook pancetta in a pan until crispy. 3. Beat eggs and parmesan cheese in a bowl. 4. Drain spaghetti and add to the pan with pancetta. 5. Remove from heat and add egg mixture. 6. Stir until the sauce thickens. 7. Season with black pepper to taste.",
-        "rating": 4.5
+        "rating": 3.5
       },
       {
         "recipeName": "Beef Bourguignon",
@@ -29,17 +29,17 @@
           "Red wine"
         ],
         "cookingMethod": "1. Preheat oven to 325°F. 2. Cook bacon in a large Dutch oven until crispy. 3. Remove bacon and brown beef in bacon fat. 4. Add onion and carrots and cook until tender. 5. Add red wine and bring to a boil. 6. Cover Dutch oven and place in oven. 7. Cook for 2-3 hours until beef is tender. 8. Serve with crusty bread.",
-        "rating": 4.8
+        "rating": 3.8
       }
     ]
   },
   {
     "id": 2,
-    "chef_picture_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=1380&t=st=1683121017~exp=1683121617~hmac=fa6c8e2e994b5c909ae18289a678ac0c9b11bf15f00e256977957f96c589af00",
+    "chef_picture_url": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-standing-with-closed-posture-showing-empty-hand-isolated-orange-wall-with-copy-space_141793-101297.jpg?w=1380&t=st=1683125408~exp=1683126008~hmac=ee928fc01c99fb02b21df25c9ce9bccafe214c35cf08149b0fe9eaabd1bf31cf",
     "chef_name": "Arjun Sharma",
     "years_of_experience": 10,
-    "number_of_recipes": 75,
-    "likes": 20000,
+    "number_of_recipes": 5,
+    "likes": 100,
     "recipes": [
       {
         "recipeName": "Pasta Carbonara",
@@ -69,11 +69,11 @@
   },
   {
     "id": 3,
-    "chef_picture_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=1380&t=st=1683121017~exp=1683121617~hmac=fa6c8e2e994b5c909ae18289a678ac0c9b11bf15f00e256977957f96c589af00",
-    "chef_name": "Neha Patel",
+    "chef_picture_url": "https://img.freepik.com/free-photo/young-smiling-caucasian-cook-girl-chef-uniform-points-side-isolated-green-wall-with-copy-space_141793-33513.jpg?w=1380&t=st=1683127080~exp=1683127680~hmac=74fbfeb565f583bf24cb12fb13f106896068a0a79c59bcc07107f40753e64759",
     "years_of_experience": 10,
-    "number_of_recipes": 75,
-    "likes": 20000,
+    "chef_name": "Priya Khanna",
+    "number_of_recipes": 8,
+    "likes": 150,
     "recipes": [
       {
         "recipeName": "Pasta Carbonara",
@@ -103,11 +103,11 @@
   },
   {
     "id": 4,
-    "chef_picture_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=1380&t=st=1683121017~exp=1683121617~hmac=fa6c8e2e994b5c909ae18289a678ac0c9b11bf15f00e256977957f96c589af00",
-    "chef_name": "Vikram Singh",
+    "chef_picture_url": "https://img.freepik.com/free-photo/young-pleased-afro-american-cook-chef-uniform-gestures-ok-holds-hand-straight-isolated-orange-wall_141793-33306.jpg?w=1380&t=st=1683125580~exp=1683126180~hmac=50d9be1e12c58c65e44995d3f243aa95172991a0e171e30bfca68acf413b71fc",
     "years_of_experience": 10,
-    "number_of_recipes": 75,
-    "likes": 20000,
+    "chef_name": "Vikram Singh",
+    "number_of_recipes": 5,
+    "likes": 90,
     "recipes": [
       {
         "recipeName": "Pasta Carbonara",
@@ -137,11 +137,11 @@
   },
   {
     "id": 5,
-    "chef_picture_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=1380&t=st=1683121017~exp=1683121617~hmac=fa6c8e2e994b5c909ae18289a678ac0c9b11bf15f00e256977957f96c589af00",
-    "chef_name": "Priya Khanna",
+    "chef_picture_url": "https://img.freepik.com/free-photo/smiling-young-male-cook-wearing-chef-uniform-glasses-crossing-hands-pink_141793-74988.jpg?w=1380&t=st=1683125881~exp=1683126481~hmac=a97734a574875d510132a434a2e3df26e22b376543fa0fcfec08dd954b4f3ab4",
     "years_of_experience": 10,
-    "number_of_recipes": 75,
-    "likes": 20000,
+    "chef_name": "Priya Khanna",
+    "number_of_recipes": 10,
+    "likes": 156,
     "recipes": [
       {
         "recipeName": "Pasta Carbonara",
@@ -171,11 +171,11 @@
   },
   {
     "id": 6,
-    "chef_picture_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=1380&t=st=1683121017~exp=1683121617~hmac=fa6c8e2e994b5c909ae18289a678ac0c9b11bf15f00e256977957f96c589af00",
-    "chef_name": "Riya Singh",
+    "chef_picture_url": "https://img.freepik.com/free-photo/pleased-young-handsome-cook-chef-uniform-holding-rolling-pin-standing-with-closed-posture-isolated-pink-space_141793-44693.jpg?w=1380&t=st=1683125962~exp=1683126562~hmac=70ddb12511e3abcd59edeadefd431dcc03919322a4346c5a0792e777c9306f32",
     "years_of_experience": 10,
-    "number_of_recipes": 75,
-    "likes": 20000,
+    "chef_name": "Priya Khanna",
+    "number_of_recipes": 8,
+    "likes": 188,
     "recipes": [
       {
         "recipeName": "Pasta Carbonara",
